@@ -4,7 +4,7 @@ pares = [
         ["Olá!", "Oi!", "Como posso ajudar?"]
     ],
     [
-        r"Qual é o seu nome?|Qual é o teu nome?"
+        r"Qual é o seu nome?|Qual é o teu nome?",
         ["Meu nome é Ritix. E o seu?", "Eu sou o Ritix. E você?"]
     ],
     [
@@ -22,5 +22,9 @@ pares = [
     [
         r"Qual é o teu clube?",
         ["O meu criador é do Benfica, por isso, o meu clube talvez também seja o Benfica."]
+    ],
+        [
+        r"Jogo do Galo",
+        ["Vamos jogar o Jogo do Galo!"]
     ]
 ]
